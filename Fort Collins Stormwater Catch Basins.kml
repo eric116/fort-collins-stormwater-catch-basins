@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Fort Collins Stormwater Catch Basins.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Fort Collins Catch Basins</name>
+		<open>1</open>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1334997803832</longitude>
+				<latitude>40.56772455635929</latitude>
+				<altitude>0</altitude>
+				<heading>103.3284537391468</heading>
+				<tilt>51.90635302487551</tilt>
+				<range>108.9360886851896</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1337875764383,40.56760407991305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1336160797201</longitude>
+				<latitude>40.56772010154563</latitude>
+				<altitude>0</altitude>
+				<heading>172.5112486062471</heading>
+				<tilt>24.50956857085558</tilt>
+				<range>88.35975165340071</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.133647236361,40.56767873261777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1289961628227</longitude>
+				<latitude>40.56742964435475</latitude>
+				<altitude>0</altitude>
+				<heading>164.0029562405252</heading>
+				<tilt>46.63060249162392</tilt>
+				<range>125.8112069310941</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1290173680541,40.56760063707321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1289961628227</longitude>
+				<latitude>40.56742964435475</latitude>
+				<altitude>0</altitude>
+				<heading>164.0029562405252</heading>
+				<tilt>46.63060249162392</tilt>
+				<range>125.8112069310941</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1291041316956,40.56760521836186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1259762511843</longitude>
+				<latitude>40.56689611536557</latitude>
+				<altitude>3.969049572517021</altitude>
+				<heading>170.789752033145</heading>
+				<tilt>83.41178471802898</tilt>
+				<range>133.4794362147916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1260214576338,40.56755806731821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1236021242847</longitude>
+				<latitude>40.56733025606127</latitude>
+				<altitude>0</altitude>
+				<heading>170.1819279024492</heading>
+				<tilt>46.77543522063004</tilt>
+				<range>122.1751806799813</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1236847876367,40.56755403497304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1220780368018</longitude>
+				<latitude>40.56780973787705</latitude>
+				<altitude>10.52087661711985</altitude>
+				<heading>31.71417910971298</heading>
+				<tilt>47.44214925021788</tilt>
+				<range>112.637496535339</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1221085545458,40.5677290694063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1220615139561</longitude>
+				<latitude>40.56782998009564</latitude>
+				<altitude>9.931116887899687</altitude>
+				<heading>31.71418985718105</heading>
+				<tilt>47.44215931624777</tilt>
+				<range>114.1592435387937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1222709428569,40.56773465472344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1274996320352</longitude>
+				<latitude>40.57082493850159</latitude>
+				<altitude>0</altitude>
+				<heading>-116.7791282607702</heading>
+				<tilt>51.85028546266032</tilt>
+				<range>98.54375321510896</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1273773312423,40.57086694972774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1316743800321</longitude>
+				<latitude>40.57071647028616</latitude>
+				<altitude>0</altitude>
+				<heading>-85.57374729363309</heading>
+				<tilt>47.57313639260368</tilt>
+				<range>119.0804223631788</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1314729228673,40.57068321531235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1319559924737</longitude>
+				<latitude>40.57118914805</latitude>
+				<altitude>0</altitude>
+				<heading>91.43343993519585</heading>
+				<tilt>47.51152441191762</tilt>
+				<range>102.3394842287733</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1318772228081,40.57111941914686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Catch Basin</name>
+			<LookAt>
+				<longitude>-105.1335642983363</longitude>
+				<latitude>40.57371340482529</latitude>
+				<altitude>0</altitude>
+				<heading>87.63458626049709</heading>
+				<tilt>49.93364012597996</tilt>
+				<range>106.6376919989788</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-105.1337308737526,40.57375580491347,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
